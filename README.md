@@ -1,2 +1,2 @@
 # sao_lei
-#This has Three functional mini programs
+#There are Three functional mini programs
